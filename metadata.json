@@ -1,0 +1,6 @@
+{
+  "name": "Video Agent",
+  "description": "Universal AI Documentary Video Creator that transforms topics or scripts into cinematic documentary videos with AI visuals, voiceover, subtitles, audio mixing, and MP4 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
